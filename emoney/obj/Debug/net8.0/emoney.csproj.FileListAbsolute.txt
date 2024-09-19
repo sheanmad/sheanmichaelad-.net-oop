@@ -1,0 +1,14 @@
+D:\A\Technocenter\NET\Bebas\emoney\bin\Debug\net8.0\emoney.exe
+D:\A\Technocenter\NET\Bebas\emoney\bin\Debug\net8.0\emoney.deps.json
+D:\A\Technocenter\NET\Bebas\emoney\bin\Debug\net8.0\emoney.runtimeconfig.json
+D:\A\Technocenter\NET\Bebas\emoney\bin\Debug\net8.0\emoney.dll
+D:\A\Technocenter\NET\Bebas\emoney\bin\Debug\net8.0\emoney.pdb
+D:\A\Technocenter\NET\Bebas\emoney\obj\Debug\net8.0\emoney.GeneratedMSBuildEditorConfig.editorconfig
+D:\A\Technocenter\NET\Bebas\emoney\obj\Debug\net8.0\emoney.AssemblyInfoInputs.cache
+D:\A\Technocenter\NET\Bebas\emoney\obj\Debug\net8.0\emoney.AssemblyInfo.cs
+D:\A\Technocenter\NET\Bebas\emoney\obj\Debug\net8.0\emoney.csproj.CoreCompileInputs.cache
+D:\A\Technocenter\NET\Bebas\emoney\obj\Debug\net8.0\emoney.dll
+D:\A\Technocenter\NET\Bebas\emoney\obj\Debug\net8.0\refint\emoney.dll
+D:\A\Technocenter\NET\Bebas\emoney\obj\Debug\net8.0\emoney.pdb
+D:\A\Technocenter\NET\Bebas\emoney\obj\Debug\net8.0\emoney.genruntimeconfig.cache
+D:\A\Technocenter\NET\Bebas\emoney\obj\Debug\net8.0\ref\emoney.dll
